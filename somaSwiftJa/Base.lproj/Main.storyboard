@@ -16,14 +16,15 @@
                         <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Valor 2" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xcS-Zc-oWw" userLabel="Valor 2">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Digite segundo valor" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xcS-Zc-oWw" userLabel="Digite segundo valor">
                                 <rect key="frame" x="7" y="100" width="308" height="30"/>
                                 <accessibility key="accessibilityConfiguration" label=""/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad" returnKeyType="next"/>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Valor 1" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="E2j-EB-rqu" userLabel="Valor 1">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Digite primeiro valor" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="E2j-EB-rqu">
                                 <rect key="frame" x="7" y="62" width="308" height="30"/>
+                                <accessibility key="accessibilityConfiguration" label=""/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad" returnKeyType="next"/>
                             </textField>
